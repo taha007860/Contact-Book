@@ -21,7 +21,7 @@ Welcome to the Contact Book Application! This is a desktop application built wit
 - **Message Boxes**: Notifications for actions like adding, updating, or deleting contacts.
 
 ## Watch Demo:
-https://github.com/taha007860/Repository-Administration-System/assets/96583299/0d12ff96-d4c0-4ebb-a713-1f0fb553174f
+https://github.com/taha007860/Contact-Book/assets/96583299/bce9e6c8-6015-4522-9bf0-148ab58912a9
 
 ## Setup and Run 🚀
 1. Make sure Python is installed on your system.
