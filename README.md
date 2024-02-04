@@ -1,7 +1,7 @@
 # Contact Book Application - Tkinter 📒🖥️
 
 ## Introduction 🌟
-Welcome to the Contact Book Application! This is a desktop application built with Python and Tkinter, designed for easy management of personal or professional contacts. It offers a user-friendly interface for adding, viewing, updating, and searching contacts.
+Welcome to the Contact Book Application! Developed as part of the CodSoft internship program, this desktop application is built with Python and Tkinter, designed for easy management of personal or professional contacts. It features a user-friendly interface for adding, viewing, updating, and searching contacts.
 
 ## Features 🛠️
 - **Add Contacts**: Store contact details including name, phone number, email, and address.
@@ -21,7 +21,7 @@ Welcome to the Contact Book Application! This is a desktop application built wit
 - **Message Boxes**: Notifications for actions like adding, updating, or deleting contacts.
 
 ## Watch Demo:
-https://github.com/taha007860/Contact-Book/assets/96583299/bce9e6c8-6015-4522-9bf0-148ab58912a9
+[Contact Book Demo](https://github.com/taha007860/Contact-Book/assets/96583299/bce9e6c8-6015-4522-9bf0-148ab58912a9)
 
 ## Setup and Run 🚀
 1. Make sure Python is installed on your system.
